@@ -1,6 +1,6 @@
 ## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=Pavan32151&theme=dark)
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Pavan32151E&theme=dark)
 
 
 <!--
