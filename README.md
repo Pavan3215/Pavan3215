@@ -1,5 +1,8 @@
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=Pavan32151&theme=dark)
+## 🔥 LeetCode Activity
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Pavan32151?ext=heatmap&theme=dark)
+
 
 
 
